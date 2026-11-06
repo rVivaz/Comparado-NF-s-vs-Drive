@@ -238,7 +238,7 @@
     <canvas id="prepCanvas" style="display:none;"></canvas>
 
     <script>
-        const APPS_SCRIPT_URL = "https://drive.google.com/drive/folders/1nQeLCb6Pyn3pdeqAJMk3oF2IQgp_7KU7";
+        const APPS_SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyF0VkmeX1GgNKFf5-ovOvRclVQCOFUPZnL1VitPoSoTrzdxpOVN0vynatn6HJC6nrP0w/exec";
 
         const fileInput = document.getElementById('fileInput');
         const dropZone = document.getElementById('dropZone');
